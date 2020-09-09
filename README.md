@@ -8,6 +8,9 @@ made for OpenSource Software Intro Class
 ## Introduction
 
 Name: Baek Hong-Yeol
+
 Major: Computer Science&Engineering
+
 Grade: 1
+
 Intersts: C, Security, Android
