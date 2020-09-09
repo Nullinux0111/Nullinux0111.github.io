@@ -13,4 +13,4 @@ Major: Computer Science&Engineering
 
 Grade: 1
 
-Intersts: C, Security, Android
+Interests: C, Security, Android
