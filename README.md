@@ -1,5 +1,5 @@
 # Intro Page
-## Welcome!
+Welcome!
 
 ## Class : OpenSource Software Intro
 
